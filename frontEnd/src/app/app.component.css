@@ -1,0 +1,63 @@
+#header{
+    background-color: #CC0033;
+    width: 100vw;
+    height: fit-content;
+}
+
+#logo{
+    height: 9vh;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.main{
+    position: absolute;
+    top:45%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 55vw;
+}
+
+#submit{
+    background-color: #CC0033; 
+    color: white;
+    margin:auto;
+    margin-top: 10px;
+}
+
+h1{
+    margin:auto;
+    margin-bottom: 15px;
+}
+
+h3{
+    margin:auto;
+    font-weight: normal;
+}
+
+.form-label{
+    font-size: 18px;
+}
+
+.button{
+    text-align: center;
+}
+
+.list{
+    margin-top: 40px;
+}
+
+#list{
+    border: gray;
+    border-width: .5px;
+    border-style: solid;
+    margin-top: 10px;
+    width: 70%;
+    height: fit-content;
+    border-radius: 2px 2px 2px 2px;
+}
+
+.form-label{
+    margin: 0 !important;
+}
